@@ -1,4 +1,4 @@
-## Olá! Eu sou Tommy Liang  👋
+## Olá! Seja bem vindo ao meu perfil. Eu sou Tommy Liang  👋
 
 
 Olá, meu nome é Tommy e sou estudante de Estatística da UFF. Aqui no Github, compartilho meus projetos de programação e análise de dados, explorando a interseção entre a estatística e a tecnologia. Sou apaixonado por aprender novas técnicas e ferramentas para aprimorar minhas habilidades de programação e ciência de dados, e estou sempre buscando novas oportunidades para colaborar em projetos interessantes. Fique à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida ou sugestão de colaboração.
